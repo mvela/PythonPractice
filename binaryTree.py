@@ -1,5 +1,5 @@
 #simple binary treee
-#
+
 class bTree:
 	def __init__(self, val):
 		self.left = None
